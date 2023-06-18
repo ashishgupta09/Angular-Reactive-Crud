@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "test",
+      "lastName": "roy",
+      "email": "76text@gmail.com",
+      "mobile": "898008"
+    },
+    {
+      "id": 8,
+      "firstName": "Aditya",
+      "lastName": "roy",
+      "email": "aditya@gmail.com",
+      "mobile": "9090909090"
+    },
+    {
+      "id": 9,
+      "firstName": "ashish",
+      "lastName": "roy",
+      "email": "786ashishroy@gmail.com",
+      "mobile": "7897790555"
+    },
+    {
+      "id": 10,
+      "firstName": "ashish",
+      "lastName": "roy",
+      "email": "786ashishroy@gmail.com",
+      "mobile": "7897790555"
+    },
+    {
+      "id": 11,
+      "firstName": "ashish",
+      "lastName": "roy",
+      "email": "786ashishroy@gmail.com",
+      "mobile": "7897790566"
+    },
+    {
+      "id": 12,
+      "firstName": "kavita",
+      "lastName": "soni",
+      "email": "78kavita@gmail.com",
+      "mobile": "8988987222"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
